@@ -1,7 +1,8 @@
 {
-  "name": "change_ip",
+  "name": "ip-switch",
   "private": true,
   "version": "1.0.0",
+  "description": "Instant 1-click Windows IP and DNS profile switcher with fail-safe rollback. Built with Tauri v2, Rust, and React 19.",
   "type": "module",
   "scripts": {
     "dev": "vite",

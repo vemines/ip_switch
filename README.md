@@ -1,6 +1,6 @@
 # IP Switch
 
-> A blazing-fast, lightweight Windows network configuration switcher and profile manager built with **Tauri v2**, **Rust**, **React 19**.
+> **Instant 1-click Windows IP and DNS profile switcher with fail-safe rollback. Built with Tauri v2, Rust, and React 19.**
 
 ---
 
